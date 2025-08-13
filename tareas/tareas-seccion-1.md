@@ -1,6 +1,7 @@
 # Tareas Sección 1
 
 ## Tarea 1
+* Anntonella Campos
 * Alejandro Camacho
 * Anjhesmar Rangel
 * Catalina Boassi
