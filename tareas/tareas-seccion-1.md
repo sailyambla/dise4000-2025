@@ -1,6 +1,7 @@
 # Tareas Sección 1
 
 ## Tarea 1
+* Catalina Boassi
 * Vicente Acevedo
 * Javiera Arriagada
 * Carolina Ramos
