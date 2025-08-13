@@ -2,3 +2,4 @@
 
 ## Tarea 1
 * Ruth Perez
+* Polyana Molina
