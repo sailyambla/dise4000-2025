@@ -2,3 +2,4 @@
 
 ## Tarea 1
 * Vicente Vega
+* Geraldine Polo 
