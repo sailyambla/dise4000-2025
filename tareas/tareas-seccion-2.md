@@ -2,3 +2,5 @@
 
 ## Tarea 1
 * Saily Ambla
+* Vicente Vega
+* Geraldine Polo 
