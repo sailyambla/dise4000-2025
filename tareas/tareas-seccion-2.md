@@ -1,6 +1,7 @@
 # Tareas Sección 2
 
 ## Tarea 1
+* Alma Ruiz
 * Amanda Carrasco 
 * Alonso Godoy
 * María Comisso
