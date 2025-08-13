@@ -1,6 +1,7 @@
 # Tareas Sección 2
 
 ## Tarea 1
+* Benjamin Mellado
 * Alma Ruiz
 * Amanda Carrasco 
 * Alonso Godoy
