@@ -2,3 +2,7 @@
 
 ## Tarea 1
 * Javiera Arriagada
+* Carolina Ramos
+* Javiera Espinoza Gac
+* Ruth Perez
+* Polyana Molina
