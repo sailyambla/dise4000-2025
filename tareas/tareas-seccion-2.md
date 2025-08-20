@@ -12,4 +12,5 @@
 * Javiera Hinojosa
 * Saily Ambla
 * Vicente Vega
-* Geraldine Polo 
+* Geraldine Polo
+* Catalina González
