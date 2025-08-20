@@ -12,7 +12,8 @@
 * Javiera Hinojosa
 * Saily Ambla
 * Vicente Vega
-* Geraldine Polo 
+* Geraldine Polo
+* Catalina González 
 
 ## Tarea 2
 * AMBLA DELGADO SAILY VALENTINA
