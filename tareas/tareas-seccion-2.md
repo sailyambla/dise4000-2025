@@ -26,7 +26,7 @@
 * GONZÁLEZ VALENZUELA CATALINA BELÉN https://github.com/catagonzalez99/Tareas-WEB/tree/main/Tarea%202 
 * MELLADO TORO BENJAMÍN ANTONIO https://github.com/BenjaXminN/Trabajos/tree/main/clase2
 * RAMOS DONOSO MARTINA IGNACIA https://github.com/Martina9990/Tareas_Web/tree/main/tarea%202
-* SAMAEL
+* SAMAEL RIOS https://github.com/Kherianne/Tareas---Lab2/tree/main/TAREA%202
 * CATALINA BOASSI VILLALOBOS https://github.com/CodedByM0chii/TRABAJOS/tree/main/index.html
 * RUIZ ALMA CELESTE [https://github.com/almaruizz/WEB/blob/main/wos](https://github.com/almaruizz/WEB/tree/main/Tarea2)
 * VEGA HERRERA VICENTE JAVIER https://github.com/ViceeCBR/Tareas-paginaweb/tree/main/ola
