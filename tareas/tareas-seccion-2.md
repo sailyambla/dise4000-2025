@@ -28,5 +28,5 @@
 * RAMOS DONOSO MARTINA IGNACIA https://github.com/Martina9990/Tareas_Web/tree/main/tarea%202
 * SAMAEL
 * RUIZ ALMA CELESTE
+* VEGA HERRERA VICENTE JAVIER https://github.com/ViceeCBR/Tareas-paginaweb/tree/main/ola
 * VARELA GUERRERO CATALINA ALEJANDRA https://github.com/catalinavarela-source/CatoVarelaTrabajos/tree/main/web%20clase
-* VEGA HERRERA VICENTE JAVIER
