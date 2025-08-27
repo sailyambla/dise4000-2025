@@ -16,10 +16,10 @@
 * Catalina González 
 
 ## Tarea 2
+* COMISSO PLESNIAK MARÍA VICTORIA https://github.com/mariacomisso-gif/Tareas-Desarrollo-Web-Mawi/tree/main/mawiwiwiw
 * AMBLA DELGADO SAILY VALENTINA https://github.com/sailyambla/Tarea-paginaweb/tree/main/tarea1
 * CARQUEN RODRÍGUEZ AGUSTINA IGNACIA https://github.com/agustinacarquen192-max/tareas-web-taller/tree/main/tarea%202
 * CARRASCO HERNÁNDEZ AMANDA CELESTE https://github.com/Amandacelest/TareaAmandaCarrasco/tree/main/Tarea_2_%20Amanda
-* COMISSO PLESNIAK MARÍA VICTORIA
 * GODOY MEDINA ALONSO JAVIER
 * POLO VIGO GERALDINE JOCELYN https://github.com/Geraldinejocelyn/Trabajoclase2Geraldine-Polo-Vigo
 * HINOJOSA POLANCO JAVIERA PAZ  https://github.com/Jyokoo/Tareas/tree/main/CLASEEEE2
