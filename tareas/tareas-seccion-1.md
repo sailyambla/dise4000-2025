@@ -20,7 +20,7 @@
 * ESPINOZA GAC JAVIERA BELÉN https://github.com/jaavisss/entregasweb/tree/main/tarea%2002%20WEB
 * LLANOS IBARRA DANIEL JOSÉ https://github.com/annarts1/danielarchivos/blob/main/Daniel_Llanos%20Archivo.zip
 * MOLINA GAONA POLYANA MICAELA
-* PEREZ SUAREZ RUTH EMIRBELYS
+* PEREZ SUAREZ RUTH EMIRBELYS https://github.com/Ruth-sv/Tareas/tree/main/Tarea%202
 * RAMOS CONTRERAS CAROLINA PAZ DE LOS ANGELES
 * RANGEL CAMACHO ANJHESMAR PAOLA
 * VIVANCO AMPUERO MARIANA SOFIA
