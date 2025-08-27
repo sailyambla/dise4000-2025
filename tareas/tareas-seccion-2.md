@@ -17,7 +17,7 @@
 
 ## Tarea 2
 * AMBLA DELGADO SAILY VALENTINA
-* CARQUEN RODRÍGUEZ AGUSTINA IGNACIA
+* CARQUEN RODRÍGUEZ AGUSTINA IGNACIA https://github.com/agustinacarquen192-max/tareas-web-taller/tree/main/tarea%202
 * CARRASCO HERNÁNDEZ AMANDA CELESTE https://github.com/Amandacelest/TareaAmandaCarrasco/tree/main/Tarea_2_%20Amanda
 * COMISSO PLESNIAK MARÍA VICTORIA
 * GODOY MEDINA ALONSO JAVIER
