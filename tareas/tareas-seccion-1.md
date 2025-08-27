@@ -16,7 +16,7 @@
 * ACEVEDO LIZANA VICENTE ANDRÉS
 * ARRIAGADA ZAMBRANO JAVIERA ANTONIA
 * CAMACHO CASTRO ALEJANDRO
-* CAMPOS RANGEL ANNTONELLA MERCEDES FE
+* CAMPOS RANGEL ANNTONELLA MERCEDES FE https://github.com/Annto24/Tareas-Laboratorio-Web/tree/main/Tarea%202 
 * ESPINOZA GAC JAVIERA BELÉN https://github.com/jaavisss/entregasweb/tree/main/tarea%2002%20WEB
 * LLANOS IBARRA DANIEL JOSÉ https://github.com/annarts1/danielarchivos/blob/main/Daniel_Llanos%20Archivo.zip
 * MOLINA GAONA POLYANA MICAELA
