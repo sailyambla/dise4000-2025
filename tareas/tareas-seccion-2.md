@@ -21,7 +21,7 @@
 * CARRASCO HERNÁNDEZ AMANDA CELESTE https://github.com/Amandacelest/TareaAmandaCarrasco/tree/main/Tarea_2_%20Amanda
 * COMISSO PLESNIAK MARÍA VICTORIA
 * GODOY MEDINA ALONSO JAVIER
-* GONZÁLEZ VALENZUELA CATALINA BELÉN
+* GONZÁLEZ VALENZUELA CATALINA BELÉN https://github.com/catagonzalez99/Tareas-WEB/tree/main/Tarea%202 
 * HINOJOSA POLANCO JAVIERA PAZ
 * MELLADO TORO BENJAMÍN ANTONIO https://github.com/BenjaXminN/Trabajos/tree/main/clase2
 * POLO VIGO GERALDINE JOCELYN
