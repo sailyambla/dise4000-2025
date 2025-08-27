@@ -3,7 +3,7 @@
 ## Tarea 1
 * Anntonella Campos
 * Alejandro Camacho
-* Anjhesmar Rangel
+* Anjhesmar Rangel https://github.com/Anjhesmar/programacionanjhe/tree/main/Tarea%201
 * Catalina Boassi
 * Vicente Acevedo
 * Javiera Arriagada
