@@ -30,3 +30,4 @@
 * RUIZ ALMA CELESTE
 * VARELA GUERRERO CATALINA ALEJANDRA https://github.com/catalinavarela-source/CatoVarelaTrabajos/tree/main/web%20clase
 * VEGA HERRERA VICENTE JAVIER
+* CATALINA BOASSI VILLALOBOS https://github.com/CodedByM0chii/TRABAJOS/tree/main/index.html
