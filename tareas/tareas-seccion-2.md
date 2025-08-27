@@ -16,17 +16,17 @@
 * Catalina González 
 
 ## Tarea 2
-* AMBLA DELGADO SAILY VALENTINA
-* CARQUEN RODRÍGUEZ AGUSTINA IGNACIA
-* CARRASCO HERNÁNDEZ AMANDA CELESTE
-* COMISSO PLESNIAK MARÍA VICTORIA
+* COMISSO PLESNIAK MARÍA VICTORIA https://github.com/mariacomisso-gif/Tareas-Desarrollo-Web-Mawi/tree/main/mawiwiwiw
+* AMBLA DELGADO SAILY VALENTINA https://github.com/sailyambla/Tarea-paginaweb/tree/main/tarea1
+* CARQUEN RODRÍGUEZ AGUSTINA IGNACIA https://github.com/agustinacarquen192-max/tareas-web-taller/tree/main/tarea%202
+* CARRASCO HERNÁNDEZ AMANDA CELESTE https://github.com/Amandacelest/TareaAmandaCarrasco/tree/main/Tarea_2_%20Amanda
 * GODOY MEDINA ALONSO JAVIER
-* GONZÁLEZ VALENZUELA CATALINA BELÉN
-* HINOJOSA POLANCO JAVIERA PAZ
-* MELLADO TORO BENJAMÍN ANTONIO
-* POLO VIGO GERALDINE JOCELYN
-* RAMOS DONOSO MARTINA IGNACIA
+* POLO VIGO GERALDINE JOCELYN https://github.com/Geraldinejocelyn/Trabajoclase2Geraldine-Polo-Vigo
+* HINOJOSA POLANCO JAVIERA PAZ  https://github.com/Jyokoo/Tareas/tree/main/CLASEEEE2
+* GONZÁLEZ VALENZUELA CATALINA BELÉN https://github.com/catagonzalez99/Tareas-WEB/tree/main/Tarea%202 
+* MELLADO TORO BENJAMÍN ANTONIO https://github.com/BenjaXminN/Trabajos/tree/main/clase2
+* RAMOS DONOSO MARTINA IGNACIA https://github.com/Martina9990/Tareas_Web/tree/main/tarea%202
 * SAMAEL
 * RUIZ ALMA CELESTE [https://github.com/almaruizz/WEB/blob/main/wos](https://github.com/almaruizz/WEB/tree/main/Tarea2)
-* VARELA GUERRERO CATALINA ALEJANDRA
-* VEGA HERRERA VICENTE JAVIER
+* VEGA HERRERA VICENTE JAVIER https://github.com/ViceeCBR/Tareas-paginaweb/tree/main/ola
+* VARELA GUERRERO CATALINA ALEJANDRA https://github.com/catalinavarela-source/CatoVarelaTrabajos/tree/main/web%20clase
