@@ -8,5 +8,5 @@
 * MOLINA GAONA POLYANA MICAELA https://github.com/PolyMolly/laboratorio-web-solemne-1
 * PEREZ SUAREZ RUTH EMIRBELYS https://github.com/Ruth-sv/laboratorio-web-solemne-1/tree/main/Solemne1
 * RAMOS CONTRERAS CAROLINA PAZ DE LOS ANGELES
-* RANGEL CAMACHO ANJHESMAR PAOLA
+* RANGEL CAMACHO ANJHESMAR PAOLA https://github.com/Anjhesmar/laboratorio-web-solemne-1/tree/main/Solemne%201
 * VIVANCO AMPUERO MARIANA SOFIA https://github.com/marianavivanco-debug/laboratorio-web-solemne-1
