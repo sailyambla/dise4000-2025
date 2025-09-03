@@ -9,7 +9,7 @@
 * HINOJOSA POLANCO JAVIERA PAZ https://github.com/Jyokoo/laboratorio-web-solemne-1
 * MELLADO TORO BENJAMÍN ANTONIO https://github.com/BenjaXminN/laboratorio-web-solemne-1
 * POLO VIGO GERALDINE JOCELYN
-* RAMOS DONOSO MARTINA IGNACIA
+* RAMOS DONOSO MARTINA IGNACIA https://github.com/Martina9990/laboratorio-web-solemne-1/tree/main/Solemne%201
 * RÍOS VELÁSQUEZ CATALINA DE LOS ANGELES
 * RUIZ ALMA CELESTE
 * VARELA GUERRERO CATALINA ALEJANDRA
