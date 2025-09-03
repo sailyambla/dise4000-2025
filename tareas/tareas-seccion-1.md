@@ -22,7 +22,7 @@
 * MOLINA GAONA POLYANA MICAELA
 * PEREZ SUAREZ RUTH EMIRBELYS
 * RAMOS CONTRERAS CAROLINA PAZ DE LOS ANGELES
-* RANGEL CAMACHO ANJHESMAR PAOLA https://github.com/Anjhesmar/programacionanjhe/tree/main/Tarea%201
+* RANGEL CAMACHO ANJHESMAR PAOLA https://github.com/Anjhesmar/programacionanjhe/tree/main/Tarea%202%20NO%20TOCAR
 * VIVANCO AMPUERO MARIANA SOFIA
 
 ## Tarea 3
