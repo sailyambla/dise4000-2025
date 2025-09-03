@@ -1,7 +1,7 @@
 # Solemne 1, Sección 1
 * ACEVEDO LIZANA VICENTE ANDRÉS
 * ARRIAGADA ZAMBRANO JAVIERA ANTONIA
-* CAMACHO CASTRO ALEJANDRO
+* CAMACHO CASTRO ALEJANDRO https://github.com/ghosstander/laboratorio-web-solemne-1
 * CAMPOS RANGEL ANNTONELLA MERCEDES FE https://github.com/Annto24/laboratorio-web-solemne-1/tree/main/Solemne%201
 * ESPINOZA GAC JAVIERA BELÉN
 * LLANOS IBARRA DANIEL JOSÉ
