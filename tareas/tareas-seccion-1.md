@@ -3,7 +3,7 @@
 ## Tarea 1
 * Anntonella Campos
 * Alejandro Camacho
-* Anjhesmar Rangel https://github.com/Anjhesmar/programacionanjhe/tree/main/Tarea%201
+* Anjhesmar Rangel
 * Catalina Boassi
 * Vicente Acevedo
 * Javiera Arriagada
@@ -23,4 +23,17 @@
 * PEREZ SUAREZ RUTH EMIRBELYS
 * RAMOS CONTRERAS CAROLINA PAZ DE LOS ANGELES
 * RANGEL CAMACHO ANJHESMAR PAOLA https://github.com/Anjhesmar/programacionanjhe/tree/main/Tarea%201
+* VIVANCO AMPUERO MARIANA SOFIA
+
+## Tarea 3
+* ACEVEDO LIZANA VICENTE ANDRÉS
+* ARRIAGADA ZAMBRANO JAVIERA ANTONIA
+* CAMACHO CASTRO ALEJANDRO
+* ESPINOZA GAC JAVIERA BELÉN https://github.com/jaavisss/entregasweb/tree/main/tarea%2003%20web
+* CAMPOS RANGEL ANNTONELLA MERCEDES FE https://github.com/Annto24/Tareas-Laboratorio-Web/tree/main/Tarea%203 
+* LLANOS IBARRA DANIEL JOSÉ
+* MOLINA GAONA POLYANA MICAELA
+* PEREZ SUAREZ RUTH EMIRBELYS https://github.com/Ruth-sv/Tareas/tree/main/Tarea%202
+* RAMOS CONTRERAS CAROLINA PAZ DE LOS ANGELES
+* RANGEL CAMACHO ANJHESMAR PAOLA
 * VIVANCO AMPUERO MARIANA SOFIA
