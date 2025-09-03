@@ -42,7 +42,7 @@
 * GONZÁLEZ VALENZUELA CATALINA BELÉN https://github.com/catagonzalez99/Tareas-WEB/tree/main/Tarea%203
 * HINOJOSA POLANCO JAVIERA PAZ
 * MELLADO TORO BENJAMÍN ANTONIO
-* POLO VIGO GERALDINE JOCELYN
+* POLO VIGO GERALDINE JOCELYN https://github.com/Geraldinejocelyn/Trabajoclase2Geraldine-Polo-Vigo/blob/main/Tarea%203%20Pagina%20estilizada%20Geraldine%20Polo/intex.html
 * RAMOS DONOSO MARTINA IGNACIA
 * RÍOS VELÁSQUEZ CATALINA DE LOS ANGELES
 * RUIZ ALMA CELESTE
