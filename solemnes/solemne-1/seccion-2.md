@@ -5,7 +5,7 @@
 * CARRASCO HERNÁNDEZ AMANDA CELESTE https://github.com/Amandacelest/laboratorio-web-solemne-1/tree/main/Solemne1_Amanda
 * COMISSO PLESNIAK MARÍA VICTORIA https://github.com/mariacomisso-gif/laboratorio-web-solemne-1
 * GODOY MEDINA ALONSO JAVIER
-* GONZÁLEZ VALENZUELA CATALINA BELÉN
+* GONZÁLEZ VALENZUELA CATALINA BELÉN https://github.com/catagonzalez99/laboratorio-web-solemne-1/tree/main/Solemne%201
 * HINOJOSA POLANCO JAVIERA PAZ https://github.com/Jyokoo/laboratorio-web-solemne-1
 * MELLADO TORO BENJAMÍN ANTONIO https://github.com/BenjaXminN/laboratorio-web-solemne-1
 * POLO VIGO GERALDINE JOCELYN https://github.com/Geraldinejocelyn/laboratorio-web-solemne-1/tree/main/Solenme%201%20Geraldine%20Polo%20Vigo
