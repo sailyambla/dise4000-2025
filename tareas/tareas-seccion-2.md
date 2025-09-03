@@ -36,7 +36,7 @@
 * AMBLA DELGADO SAILY VALENTINA
 * BOASSI VILLALOBOS CATALINA PAZ
 * CARQUEN RODRÍGUEZ AGUSTINA IGNACIA https://github.com/agustinacarquen192-max/tareas-web-taller/tree/main/tarea%203
-* CARRASCO HERNÁNDEZ AMANDA CELESTE
+* CARRASCO HERNÁNDEZ AMANDA CELESTE https://github.com/Amandacelest/TareaAmandaCarrasco/blob/main/Amanda_Tarea3/index.html
 * COMISSO PLESNIAK MARÍA VICTORIA
 * GODOY MEDINA ALONSO JAVIER
 * GONZÁLEZ VALENZUELA CATALINA BELÉN https://github.com/catagonzalez99/Tareas-WEB/tree/main/Tarea%203
