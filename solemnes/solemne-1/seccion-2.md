@@ -12,5 +12,5 @@
 * RAMOS DONOSO MARTINA IGNACIA https://github.com/Martina9990/laboratorio-web-solemne-1/tree/main/Solemne%201
 * RÍOS VELÁSQUEZ CATALINA DE LOS ANGELES
 * RUIZ ALMA CELESTE https://github.com/almaruizz/laboratorio-web-solemne-1
-* VARELA GUERRERO CATALINA ALEJANDRA
+* VARELA GUERRERO CATALINA ALEJANDRA https://github.com/catalinavarela-source/laboratorio-web-solemne-1
 * VEGA HERRERA VICENTE JAVIER https://github.com/ViceeCBR/laboratorio-web-solemne-1
