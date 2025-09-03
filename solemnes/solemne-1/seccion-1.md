@@ -6,7 +6,7 @@
 * CAMPOS RANGEL ANNTONELLA MERCEDES FE https://github.com/Annto24/laboratorio-web-solemne-1/tree/main/Solemne%201
 * LLANOS IBARRA DANIEL JOSÉ
 * MOLINA GAONA POLYANA MICAELA https://github.com/PolyMolly/laboratorio-web-solemne-1
-* PEREZ SUAREZ RUTH EMIRBELYS
+* PEREZ SUAREZ RUTH EMIRBELYS https://github.com/Ruth-sv/laboratorio-web-solemne-1/tree/main/Solemne1
 * RAMOS CONTRERAS CAROLINA PAZ DE LOS ANGELES
 * RANGEL CAMACHO ANJHESMAR PAOLA
 * VIVANCO AMPUERO MARIANA SOFIA https://github.com/marianavivanco-debug/laboratorio-web-solemne-1
