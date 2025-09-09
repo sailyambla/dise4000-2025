@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clase 4 – Parte 2</title>
+    <style>
+        body{
+            margin: 0px;
+            display: flex;
+        }
+
+        .contenido-principal{
+            width: 90%;
+            height: 90vh;
+            background-color: #ECEBF2;
+            margin: auto;
+            margin-top: 5vh;
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-rows: 1fr 1fr 1fr;
+            gap: 20px;
+        }
+
+        .contenido-principal div:first-child{
+            grid-column: 1 / 3;
+            grid-row: 1 / 3;
+        }
+
+        .content{
+            background-color: #8FBFBA;
+            border-radius: 15px;
+            transition: .2s;
+        }
+
+        .content:hover{
+            scale: 1.02;
+        }
+    </style>
+</head>
+<body>
+    <div class="contenido-principal">
+        <div class="content"></div>
+        <div class="content"></div>
+        <div class="content"></div>
+        <div class="content"></div>
+        <div class="content"></div>
+        <div class="content"></div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clase 4 - Parte 1</title>
+    <style>
+        body{
+            margin: 0px;
+        }
+
+        .button-container{
+            width: 100%;
+            height: 100vh;
+            display: flex;
+        }
+
+        .button-container button{
+            width: 400px;
+            height: 200px;
+            margin: auto;
+            padding: 0px;
+            font-family: 'Helvetica', sans-serif;
+            font-size: 35px;
+            color: #545C52;
+            background-color: #C4B7CB;
+            border: none;
+            border-radius: 15px;
+            transition: 0.3s;
+        }
+
+        .button-container button:hover{
+            background-color: #BBC7CE;
+            scale: 1.01;
+            font-size: 36px;
+        }
+
+        .button-container button:active{
+            background-color: #96a0a5;
+            scale: 1.02;
+        }
+    </style>
+</head>
+<body>
+    <div class="button-container">
+        <button>PRESIÓNAME</button>
+    </div>
+</body>
+</html>
