@@ -43,25 +43,25 @@
 * HINOJOSA POLANCO JAVIERA PAZ
 * MELLADO TORO BENJAMÍN ANTONIO
 * POLO VIGO GERALDINE JOCELYN https://github.com/Geraldinejocelyn/Trabajoclase2Geraldine-Polo-Vigo/blob/main/Tarea%203%20Pagina%20estilizada%20Geraldine%20Polo/intex.html
-* RAMOS DONOSO MARTINA IGNACIA
+* RAMOS DONOSO MARTINA IGNACIA https://github.com/Martina9990/Tareas_Web/tree/main/tarea%203
 * RÍOS VELÁSQUEZ CATALINA DE LOS ANGELES
 * RUIZ ALMA CELESTE
 * VARELA GUERRERO CATALINA ALEJANDRA
 * VEGA HERRERA VICENTE JAVIER
 
 ## Tarea 4
-* AMBLA DELGADO SAILY VALENTINA
+* AMBLA DELGADO SAILY VALENTINA https://github.com/sailyambla/Tarea-paginaweb/tree/main/tarea4
 * BOASSI VILLALOBOS CATALINA PAZ
-* CARQUEN RODRÍGUEZ AGUSTINA IGNACIA
+* CARQUEN RODRÍGUEZ AGUSTINA IGNACIA https://github.com/agustinacarquen192-max/tareas-web-taller/tree/main/tarea%204
 * CARRASCO HERNÁNDEZ AMANDA CELESTE
-* COMISSO PLESNIAK MARÍA VICTORIA
+* COMISSO PLESNIAK MARÍA VICTORIA https://github.com/mariacomisso-gif/Tareas-Desarrollo-Web-Mawi/tree/main/tarea%204
 * GODOY MEDINA ALONSO JAVIER
 * GONZÁLEZ VALENZUELA CATALINA BELÉN
-* HINOJOSA POLANCO JAVIERA PAZ
-* MELLADO TORO BENJAMÍN ANTONIO
+* MELLADO TORO BENJAMÍN ANTONIO https://github.com/BenjaXminN/Trabajos/tree/main/clase%204
+* HINOJOSA POLANCO JAVIERA PAZ https://github.com/Jyokoo/Tareas/tree/main/clase%204
 * POLO VIGO GERALDINE JOCELYN
-* RAMOS DONOSO MARTINA IGNACIA
+* RAMOS DONOSO MARTINA IGNACIA https://github.com/Martina9990/Tareas_Web/tree/main/tarea%204
 * RÍOS VELÁSQUEZ CATALINA DE LOS ANGELES
 * RUIZ ALMA CELESTE
-* VARELA GUERRERO CATALINA ALEJANDRA
 * VEGA HERRERA VICENTE JAVIER https://github.com/ViceeCBR/Tareas-paginaweb/tree/main/Clase%205
+* VARELA GUERRERO CATALINA ALEJANDRA https://github.com/catalinavarela-source/CatoVarelaTrabajos/tree/main/Clase
