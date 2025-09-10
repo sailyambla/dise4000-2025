@@ -54,7 +54,7 @@
 * BOASSI VILLALOBOS CATALINA PAZ
 * CARQUEN RODRÍGUEZ AGUSTINA IGNACIA https://github.com/agustinacarquen192-max/tareas-web-taller/tree/main/tarea%204
 * CARRASCO HERNÁNDEZ AMANDA CELESTE
-* COMISSO PLESNIAK MARÍA VICTORIA
+* COMISSO PLESNIAK MARÍA VICTORIA https://github.com/mariacomisso-gif/Tareas-Desarrollo-Web-Mawi/tree/main/tarea%204
 * GODOY MEDINA ALONSO JAVIER
 * GONZÁLEZ VALENZUELA CATALINA BELÉN
 * MELLADO TORO BENJAMÍN ANTONIO https://github.com/BenjaXminN/Trabajos/tree/main/clase%204
