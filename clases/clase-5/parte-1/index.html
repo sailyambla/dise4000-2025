@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clase 5 – Parte 1</title>
+</head>
+<body>
+    <input type="number" id="valor-a">
+    <input type="number" id="valor-b">
+    <button id="boton">SUMAR</button>
+    <p id="resultado"></p>
+    <script>
+        document.getElementById('boton').addEventListener('click', suma)
+
+        function suma(){
+            let a = Number(document.getElementById('valor-a').value)
+            let b = Number(document.getElementById('valor-b').value)
+            let adicion = a + b
+            console.log(adicion)
+            document.getElementById('resultado').innerHTML = 'La suma de ' + a + ' con ' + b + ' es: ' + adicion
+        }
+    </script>
+</body>
+</html>
