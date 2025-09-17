@@ -46,7 +46,7 @@
 * CAMPOS RANGEL ANNTONELLA MERCEDES FE https://github.com/Annto24/Tareas-Laboratorio-Web/tree/main/Tarea%204
 * LLANOS IBARRA DANIEL JOSÉ https://github.com/annarts1/daniel_tarea4/blob/main/daniel%20tarea%20(2).zip
 * MOLINA GAONA POLYANA MICAELA https://github.com/PolyMolly/Tarea4/tree/main/tarea%204.1
-* PEREZ SUAREZ RUTH EMIRBELYS
+* PEREZ SUAREZ RUTH EMIRBELYS https://github.com/Ruth-sv/Tareas/tree/main/Clase%204
 * RAMOS CONTRERAS CAROLINA PAZ DE LOS ANGELES
 * RANGEL CAMACHO ANJHESMAR PAOLA https://github.com/Anjhesmar/programacionanjhe/tree/main/Tarea%2004
 * VIVANCO AMPUERO MARIANA SOFIA https://github.com/marianavivanco-debug/lab-tec-web
