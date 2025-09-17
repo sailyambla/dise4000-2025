@@ -42,7 +42,7 @@
 * ACEVEDO LIZANA VICENTE ANDRÉS
 * ARRIAGADA ZAMBRANO JAVIERA ANTONIA https://github.com/dollipetals/trabajos-lab-web/tree/main/Tarea4-Lab
 * CAMACHO CASTRO ALEJANDRO https://github.com/ghosstander/desweb/tree/main/tarea%204
-* ESPINOZA GAC JAVIERA BELÉN
+* ESPINOZA GAC JAVIERA BELÉN https://github.com/jaavisss/entregasweb/tree/main/tarea%2004%20WEB
 * CAMPOS RANGEL ANNTONELLA MERCEDES FE https://github.com/Annto24/Tareas-Laboratorio-Web/tree/main/Tarea%204
 * LLANOS IBARRA DANIEL JOSÉ https://github.com/annarts1/daniel_tarea4/blob/main/daniel%20tarea%20(2).zip
 * MOLINA GAONA POLYANA MICAELA https://github.com/PolyMolly/Tarea4/tree/main/tarea%204.1
