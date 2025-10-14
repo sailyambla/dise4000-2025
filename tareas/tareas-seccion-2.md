@@ -71,14 +71,14 @@
 * BOASSI VILLALOBOS CATALINA PAZ
 * CARRASCO HERNÁNDEZ AMANDA CELESTE
 * CARQUEN RODRÍGUEZ AGUSTINA IGNACIA https://github.com/agustinacarquen192-max/tareas-web-taller/blob/main/tarea%205/index-3.html
-* COMISSO PLESNIAK MARÍA VICTORIA
+* COMISSO PLESNIAK MARÍA VICTORIA https://github.com/mariacomisso-gif/Tareas-Desarrollo-Web-Mawi/tree/main/clase%206%20ayayayay
 * GODOY MEDINA ALONSO JAVIER
 * GONZÁLEZ VALENZUELA CATALINA BELÉN
-* MELLADO TORO BENJAMÍN ANTONIO
-* HINOJOSA POLANCO JAVIERA PAZ
+* MELLADO TORO BENJAMÍN ANTONIO https://github.com/BenjaXminN/Trabajos/tree/main/clase%205
+* HINOJOSA POLANCO JAVIERA PAZ  https://github.com/Jyokoo/Tareas/blob/main/clase%205/clase%205/index.html
 * POLO VIGO GERALDINE JOCELYN
 * RAMOS DONOSO MARTINA IGNACIA
 * RÍOS VELÁSQUEZ SAMAEL KHERIANNE
-* RUIZ ALMA CELESTE
-* VEGA HERRERA VICENTE JAVIER
+* RUIZ ALMA CELESTE https://github.com/almaruizz/WEB/tree/main/tarea
+* VEGA HERRERA VICENTE JAVIER https://github.com/ViceeCBR/Tareas-paginaweb/tree/main/Clase%206
 * VARELA GUERRERO CATALINA ALEJANDRA

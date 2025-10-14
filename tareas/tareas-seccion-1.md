@@ -13,7 +13,7 @@
 * Polyana Molina
 
 ## Tarea 2
-* ACEVEDO LIZANA VICENTE ANDRÉS
+* ACEVEDO LIZANA VICENTE ANDRÉS https://github.com/vicente-acevedo/Tareas-Laboratorio-Web/tree/main/Tarea%202
 * ARRIAGADA ZAMBRANO JAVIERA ANTONIA https://github.com/dollipetals/trabajos-lab-web/tree/main/Tarea2-Lab
 * CAMACHO CASTRO ALEJANDRO https://github.com/ghosstander/desweb/tree/main/tarea%202
 * ESPINOZA GAC JAVIERA BELÉN https://github.com/jaavisss/entregasweb/tree/main/tarea%2002%20WEB
@@ -26,7 +26,7 @@
 * VIVANCO AMPUERO MARIANA SOFIA
 
 ## Tarea 3
-* ACEVEDO LIZANA VICENTE ANDRÉS
+* ACEVEDO LIZANA VICENTE ANDRÉS https://github.com/vicente-acevedo/Tareas-Laboratorio-Web/tree/main/Tarea%203
 * ARRIAGADA ZAMBRANO JAVIERA ANTONIA https://github.com/dollipetals/trabajos-lab-web/tree/main/Tarea3-Lab
 * CAMACHO CASTRO ALEJANDRO https://github.com/ghosstander/desweb/tree/main/tarea%203
 * ESPINOZA GAC JAVIERA BELÉN https://github.com/jaavisss/entregasweb/tree/main/tarea%2003%20web
@@ -39,7 +39,7 @@
 * VIVANCO AMPUERO MARIANA SOFIA
 
 ## Tarea 4
-* ACEVEDO LIZANA VICENTE ANDRÉS
+* ACEVEDO LIZANA VICENTE ANDRÉS https://github.com/vicente-acevedo/Tareas-Laboratorio-Web/tree/main/Tarea%204
 * ARRIAGADA ZAMBRANO JAVIERA ANTONIA https://github.com/dollipetals/trabajos-lab-web/tree/main/Tarea4-Lab
 * CAMACHO CASTRO ALEJANDRO https://github.com/ghosstander/desweb/tree/main/tarea%204
 * ESPINOZA GAC JAVIERA BELÉN https://github.com/jaavisss/entregasweb/tree/main/tarea%2004%20WEB
@@ -52,7 +52,7 @@
 * VIVANCO AMPUERO MARIANA SOFIA https://github.com/marianavivanco-debug/lab-tec-web
 
 ## Tarea 5
-* ACEVEDO LIZANA VICENTE ANDRÉS
+* ACEVEDO LIZANA VICENTE ANDRÉS https://github.com/vicente-acevedo/Tareas-Laboratorio-Web/tree/main/Tarea%205
 * ARRIAGADA ZAMBRANO JAVIERA ANTONIA
 * CAMACHO CASTRO ALEJANDRO
 * ESPINOZA GAC JAVIERA BELÉN
