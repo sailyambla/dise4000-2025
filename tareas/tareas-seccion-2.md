@@ -69,7 +69,7 @@
 ## Tarea 5
 * AMBLA DELGADO SAILY VALENTINA https://github.com/sailyambla/Tarea-paginaweb/tree/main/tarea%206
 * BOASSI VILLALOBOS CATALINA PAZ
-* CARRASCO HERNÁNDEZ AMANDA CELESTE
+* CARRASCO HERNÁNDEZ AMANDA CELESTE https://github.com/Amandacelest/TareaAmandaCarrasco/blob/main/Tarea5_AmandaCarrasco/index.html
 * CARQUEN RODRÍGUEZ AGUSTINA IGNACIA https://github.com/agustinacarquen192-max/tareas-web-taller/blob/main/tarea%205/index-3.html
 * COMISSO PLESNIAK MARÍA VICTORIA https://github.com/mariacomisso-gif/Tareas-Desarrollo-Web-Mawi/tree/main/clase%206%20ayayayay
 * GODOY MEDINA ALONSO JAVIER
