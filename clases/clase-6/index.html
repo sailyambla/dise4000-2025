@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clase 6</title>
+    <style>
+        body{
+            margin: 0px;
+            height: 100vh;
+        }
+
+        #obj{
+            position: absolute;
+            width: 100px;
+            height: 100px;
+            background-color: rgb(226, 88, 88);
+            transform: translate(-50%, -50%);
+        }
+    </style>
+</head>
+<body>
+    <div id="obj"></div>
+    <script>
+        let moving = false
+
+        let rectX = document.body.clientWidth / 2
+        let rectY = document.body.clientHeight / 2
+
+        let mousePrevX, mousePrevY
+
+        const obj = document.getElementById('obj')
+
+        obj.style.left = rectX + 'px'
+        obj.style.top = rectY + 'px'
+
+        obj.addEventListener('mousedown', (e) => objInteraction(e))
+        // obj.addEventListener('mousemove', (e) => objInteraction(e))
+        document.body.addEventListener('mousemove', (e) => objInteraction(e))
+        obj.addEventListener('mouseup', (e) => objInteraction(e))
+
+        function objInteraction(e){
+            if(e.type == 'mousedown'){
+                moving = true
+                mousePrevX = e.clientX
+                mousePrevY = e.clientY
+            }
+            else if(e.type == 'mousemove' && moving){
+                rectX += e.clientX - mousePrevX
+                rectY += e.clientY - mousePrevY
+                mousePrevX = e.clientX
+                mousePrevY = e.clientY
+                obj.style.left = rectX + 'px'
+                obj.style.top = rectY + 'px'
+            }
+            else if(e.type == 'mouseup') moving = false
+        }   
+    </script>
+</body>
+</html>
