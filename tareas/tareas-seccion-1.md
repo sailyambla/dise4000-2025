@@ -13,20 +13,20 @@
 * Polyana Molina
 
 ## Tarea 2
-* ACEVEDO LIZANA VICENTE ANDRÉS
+* ACEVEDO LIZANA VICENTE ANDRÉS https://github.com/vicente-acevedo/Tareas-Laboratorio-Web/tree/main/Tarea%202
 * ARRIAGADA ZAMBRANO JAVIERA ANTONIA https://github.com/dollipetals/trabajos-lab-web/tree/main/Tarea2-Lab
 * CAMACHO CASTRO ALEJANDRO https://github.com/ghosstander/desweb/tree/main/tarea%202
 * ESPINOZA GAC JAVIERA BELÉN https://github.com/jaavisss/entregasweb/tree/main/tarea%2002%20WEB
 * CAMPOS RANGEL ANNTONELLA MERCEDES FE https://github.com/Annto24/Tareas-Laboratorio-Web/tree/main/Tarea%203
 * MOLINA GAONA POLYANA MICAELA https://github.com/PolyMolly/Tarea2
 * LLANOS IBARRA DANIEL JOSÉ https://github.com/annarts1/danielarchivos/blob/main/Daniel_Llanos%20Archivo.zip
-* PEREZ SUAREZ RUTH EMIRBELYS
+* PEREZ SUAREZ RUTH EMIRBELYS https://github.com/Ruth-sv/Tareas/tree/main/Tarea%202
 * RAMOS CONTRERAS CAROLINA PAZ DE LOS ANGELES
 * RANGEL CAMACHO ANJHESMAR PAOLA https://github.com/Anjhesmar/programacionanjhe/tree/main/Tarea%202%20NO%20TOCAR
 * VIVANCO AMPUERO MARIANA SOFIA
 
 ## Tarea 3
-* ACEVEDO LIZANA VICENTE ANDRÉS
+* ACEVEDO LIZANA VICENTE ANDRÉS https://github.com/vicente-acevedo/Tareas-Laboratorio-Web/tree/main/Tarea%203
 * ARRIAGADA ZAMBRANO JAVIERA ANTONIA https://github.com/dollipetals/trabajos-lab-web/tree/main/Tarea3-Lab
 * CAMACHO CASTRO ALEJANDRO https://github.com/ghosstander/desweb/tree/main/tarea%203
 * ESPINOZA GAC JAVIERA BELÉN https://github.com/jaavisss/entregasweb/tree/main/tarea%2003%20web
@@ -39,7 +39,7 @@
 * VIVANCO AMPUERO MARIANA SOFIA
 
 ## Tarea 4
-* ACEVEDO LIZANA VICENTE ANDRÉS
+* ACEVEDO LIZANA VICENTE ANDRÉS https://github.com/vicente-acevedo/Tareas-Laboratorio-Web/tree/main/Tarea%204
 * ARRIAGADA ZAMBRANO JAVIERA ANTONIA https://github.com/dollipetals/trabajos-lab-web/tree/main/Tarea4-Lab
 * CAMACHO CASTRO ALEJANDRO https://github.com/ghosstander/desweb/tree/main/tarea%204
 * ESPINOZA GAC JAVIERA BELÉN https://github.com/jaavisss/entregasweb/tree/main/tarea%2004%20WEB
@@ -52,14 +52,14 @@
 * VIVANCO AMPUERO MARIANA SOFIA https://github.com/marianavivanco-debug/lab-tec-web
 
 ## Tarea 5
-* ACEVEDO LIZANA VICENTE ANDRÉS
-* ARRIAGADA ZAMBRANO JAVIERA ANTONIA
+* ACEVEDO LIZANA VICENTE ANDRÉS https://github.com/vicente-acevedo/Tareas-Laboratorio-Web/tree/main/Tarea%205
+* ARRIAGADA ZAMBRANO JAVIERA ANTONIA https://github.com/dollipetals/trabajos-lab-web/tree/main/Tarea%205-Lab
 * CAMACHO CASTRO ALEJANDRO https://github.com/ghosstander/desweb/blob/main/tarea%20webdes/index2.html
 * ESPINOZA GAC JAVIERA BELÉN
-* CAMPOS RANGEL ANNTONELLA MERCEDES FE
+* CAMPOS RANGEL ANNTONELLA MERCEDES FE https://github.com/Annto24/Tareas-Laboratorio-Web/tree/main/Tarea%205%20AnntonellaCampos
 * LLANOS IBARRA DANIEL JOSÉ
 * MOLINA GAONA POLYANA MICAELA
-* PEREZ SUAREZ RUTH EMIRBELYS
+* PEREZ SUAREZ RUTH EMIRBELYS https://github.com/Ruth-sv/Tareas/tree/main/Tarea%205
 * RAMOS CONTRERAS CAROLINA PAZ DE LOS ANGELES
 * RANGEL CAMACHO ANJHESMAR PAOLA
 * VIVANCO AMPUERO MARIANA SOFIA
