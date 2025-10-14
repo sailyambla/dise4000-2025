@@ -20,7 +20,7 @@
 * CAMPOS RANGEL ANNTONELLA MERCEDES FE https://github.com/Annto24/Tareas-Laboratorio-Web/tree/main/Tarea%203
 * MOLINA GAONA POLYANA MICAELA https://github.com/PolyMolly/Tarea2
 * LLANOS IBARRA DANIEL JOSÉ https://github.com/annarts1/danielarchivos/blob/main/Daniel_Llanos%20Archivo.zip
-* PEREZ SUAREZ RUTH EMIRBELYS
+* PEREZ SUAREZ RUTH EMIRBELYS https://github.com/Ruth-sv/Tareas/tree/main/Tarea%202
 * RAMOS CONTRERAS CAROLINA PAZ DE LOS ANGELES
 * RANGEL CAMACHO ANJHESMAR PAOLA https://github.com/Anjhesmar/programacionanjhe/tree/main/Tarea%202%20NO%20TOCAR
 * VIVANCO AMPUERO MARIANA SOFIA
@@ -53,16 +53,16 @@
 
 ## Tarea 5
 * ACEVEDO LIZANA VICENTE ANDRÉS https://github.com/vicente-acevedo/Tareas-Laboratorio-Web/tree/main/Tarea%205
-* ARRIAGADA ZAMBRANO JAVIERA ANTONIA
-* CAMACHO CASTRO ALEJANDRO
-* ESPINOZA GAC JAVIERA BELÉN
-* CAMPOS RANGEL ANNTONELLA MERCEDES FE
-* LLANOS IBARRA DANIEL JOSÉ
-* MOLINA GAONA POLYANA MICAELA
-* PEREZ SUAREZ RUTH EMIRBELYS
+* ARRIAGADA ZAMBRANO JAVIERA ANTONIA https://github.com/dollipetals/trabajos-lab-web/tree/main/Tarea%205-Lab
+* CAMACHO CASTRO ALEJANDRO https://github.com/ghosstander/desweb/blob/main/tarea%20webdes/index2.html
+* ESPINOZA GAC JAVIERA BELÉN https://github.com/jaavisss/entregasweb/tree/main/TAREA%2005
+* CAMPOS RANGEL ANNTONELLA MERCEDES FE https://github.com/Annto24/Tareas-Laboratorio-Web/tree/main/Tarea%205%20AnntonellaCampos
+* LLANOS IBARRA DANIEL JOSÉ https://github.com/annarts1/tarea_javascript_2/tree/main/Tarea%20Javascript
+* MOLINA GAONA POLYANA MICAELA https://github.com/PolyMolly/Tarea5
+* PEREZ SUAREZ RUTH EMIRBELYS https://github.com/Ruth-sv/Tareas/tree/main/Tarea%205
 * RAMOS CONTRERAS CAROLINA PAZ DE LOS ANGELES
-* RANGEL CAMACHO ANJHESMAR PAOLA
-* VIVANCO AMPUERO MARIANA SOFIA
+* RANGEL CAMACHO ANJHESMAR PAOLA https://github.com/anjhessmar/Tareas-Anjhe-Programaci-n/tree/main/Tarea%2005
+* VIVANCO AMPUERO MARIANA SOFIA https://github.com/marianavivanco-debug/tarea-5
 
 ## Tarea 6
 * ACEVEDO LIZANA VICENTE ANDRÉS https://github.com/vicente-acevedo/Tareas-Laboratorio-Web/tree/main/Tarea%206
