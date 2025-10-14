@@ -74,7 +74,7 @@
 * COMISSO PLESNIAK MARÍA VICTORIA https://github.com/mariacomisso-gif/Tareas-Desarrollo-Web-Mawi/tree/main/clase%206%20ayayayay
 * GODOY MEDINA ALONSO JAVIER
 * GONZÁLEZ VALENZUELA CATALINA BELÉN
-* MELLADO TORO BENJAMÍN ANTONIO
+* MELLADO TORO BENJAMÍN ANTONIO https://github.com/BenjaXminN/Trabajos/tree/main/clase%205
 * HINOJOSA POLANCO JAVIERA PAZ  https://github.com/Jyokoo/Tareas/blob/main/clase%205/clase%205/index.html
 * POLO VIGO GERALDINE JOCELYN
 * RAMOS DONOSO MARTINA IGNACIA
