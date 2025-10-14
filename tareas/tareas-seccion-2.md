@@ -67,18 +67,18 @@
 * VARELA GUERRERO CATALINA ALEJANDRA https://github.com/catalinavarela-source/CatoVarelaTrabajos/tree/main/Clase
 
 ## Tarea 5
-* AMBLA DELGADO SAILY VALENTINA
+* AMBLA DELGADO SAILY VALENTINA https://github.com/sailyambla/Tarea-paginaweb/tree/main/tarea%206
 * BOASSI VILLALOBOS CATALINA PAZ
-* CARRASCO HERNÁNDEZ AMANDA CELESTE
-* CARQUEN RODRÍGUEZ AGUSTINA IGNACIA
-* COMISSO PLESNIAK MARÍA VICTORIA
+* CARRASCO HERNÁNDEZ AMANDA CELESTE https://github.com/Amandacelest/TareaAmandaCarrasco/blob/main/Tarea5_AmandaCarrasco/index.html
+* CARQUEN RODRÍGUEZ AGUSTINA IGNACIA https://github.com/agustinacarquen192-max/tareas-web-taller/blob/main/tarea%205/index-3.html
+* COMISSO PLESNIAK MARÍA VICTORIA https://github.com/mariacomisso-gif/Tareas-Desarrollo-Web-Mawi/tree/main/clase%206%20ayayayay
 * GODOY MEDINA ALONSO JAVIER
-* GONZÁLEZ VALENZUELA CATALINA BELÉN
-* MELLADO TORO BENJAMÍN ANTONIO
-* HINOJOSA POLANCO JAVIERA PAZ
-* POLO VIGO GERALDINE JOCELYN
-* RAMOS DONOSO MARTINA IGNACIA
+* GONZÁLEZ VALENZUELA CATALINA BELÉN https://github.com/catagonzalez99/Tareas-WEB/tree/main/Tarea%205
+* MELLADO TORO BENJAMÍN ANTONIO https://github.com/BenjaXminN/Trabajos/tree/main/clase%205
+* HINOJOSA POLANCO JAVIERA PAZ  https://github.com/Jyokoo/Tareas/blob/main/clase%205/clase%205/index.html
+* POLO VIGO GERALDINE JOCELYN https://github.com/Geraldinejocelyn/Trabajoclase2Geraldine-Polo-Vigo/blob/main/Tarea%205/index.html
+* RAMOS DONOSO MARTINA IGNACIA https://github.com/Martina9990/Tareas_Web/tree/main/tarea%205/index.html
 * RÍOS VELÁSQUEZ SAMAEL KHERIANNE
-* RUIZ ALMA CELESTE
-* VEGA HERRERA VICENTE JAVIER
+* RUIZ ALMA CELESTE https://github.com/almaruizz/WEB/tree/main/tarea
+* VEGA HERRERA VICENTE JAVIER https://github.com/ViceeCBR/Tareas-paginaweb/tree/main/Clase%206
 * VARELA GUERRERO CATALINA ALEJANDRA
