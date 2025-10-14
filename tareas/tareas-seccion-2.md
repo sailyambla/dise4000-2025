@@ -73,7 +73,7 @@
 * CARQUEN RODRÍGUEZ AGUSTINA IGNACIA https://github.com/agustinacarquen192-max/tareas-web-taller/blob/main/tarea%205/index-3.html
 * COMISSO PLESNIAK MARÍA VICTORIA https://github.com/mariacomisso-gif/Tareas-Desarrollo-Web-Mawi/tree/main/clase%206%20ayayayay
 * GODOY MEDINA ALONSO JAVIER
-* GONZÁLEZ VALENZUELA CATALINA BELÉN
+* GONZÁLEZ VALENZUELA CATALINA BELÉN https://github.com/catagonzalez99/Tareas-WEB/tree/main/Tarea%205
 * MELLADO TORO BENJAMÍN ANTONIO https://github.com/BenjaXminN/Trabajos/tree/main/clase%205
 * HINOJOSA POLANCO JAVIERA PAZ  https://github.com/Jyokoo/Tareas/blob/main/clase%205/clase%205/index.html
 * POLO VIGO GERALDINE JOCELYN
