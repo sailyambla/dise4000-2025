@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clase 7 – Parte 1</title>
+    <style>
+        body{
+            margin: 0px;
+        }
+
+        .container{
+            width: 100%;
+            height: 100vh;
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+        }
+
+        .content{
+            border: 1px solid cadetblue;
+            display: flex;
+            transition: .2s;
+        }
+
+        .content p{
+            margin: auto;
+            padding: 0px;
+            font-size: 60px;
+            display: none;
+            pointer-events: none;
+        }
+
+        .content.over p{
+            display: block;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="content">
+            <p>HOLA</p>
+        </div>
+        <div class="content">
+            <p>HOLA</p>
+        </div>
+        <div class="content">
+            <p>HOLA</p>
+        </div>
+    </div>
+    <script>
+        const hola = [
+            "Hello",        // Inglés
+            "Bonjour",      // Francés
+            "Hallo",        // Alemán
+            "Ciao",         // Italiano
+            "Olá",          // Portugués
+            "こんにちは",    // Japonés
+            "안녕하세요",     // Coreano
+            "你好",          // Chino mandarín
+            "مرحبا",        // Árabe
+            "Здравствуйте"  // Ruso
+        ];
+
+        const content = document.getElementsByClassName('content')
+        for(let i = 0; i < content.length; i++){
+            const c = content[i]
+
+            c.addEventListener('mouseover', (e) => {
+                e.target.classList.add('over')
+                e.target.style.backgroundColor = `hsl(${Math.trunc(360 * Math.random())}, 50%, 80%)`
+                e.target.style.opacity = '100%'
+                e.target.getElementsByTagName('p')[0].innerHTML = hola[Math.trunc(hola.length * Math.random())]
+            })
+
+            c.addEventListener('mouseout', (e) => {
+                e.target.classList.remove('over')
+                e.target.style.opacity = '0%'
+            })
+        }
+    </script>
+</body>
+</html>
