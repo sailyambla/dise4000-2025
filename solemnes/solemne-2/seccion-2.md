@@ -8,7 +8,7 @@
 * GONZÁLEZ VALENZUELA CATALINA BELÉN https://github.com/catagonzalez99/laboratorio-web-solemne-2/blob/main/Solemne%202/index.html
 * HINOJOSA POLANCO JAVIERA PAZ  https://github.com/Jyokoo/laboratorio-web-solemne-2/tree/main/Solenme%202
 * MELLADO TORO BENJAMÍN ANTONIO https://github.com/BenjaXminN/laboratorio-web-solemne-2/tree/main/Solemne%202
-* POLO VIGO GERALDINE JOCELYN
+* POLO VIGO GERALDINE JOCELYN https://github.com/Geraldinejocelyn/laboratorio-web-solemne-2/blob/main/Solenme%202_GeraldinePoloVigo/index.html
 * RAMOS DONOSO MARTINA IGNACIA https://github.com/Martina9990/laboratorio-web-solemne-1/tree/main/Solemne%202
 * RÍOS VELÁSQUEZ CATALINA DE LOS ANGELES
 * RUIZ ALMA CELESTE https://github.com/almaruizz/laboratorio-web-solemne-2/tree/main/Solenmne2
