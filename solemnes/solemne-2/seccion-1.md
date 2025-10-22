@@ -8,5 +8,5 @@
 * MOLINA GAONA POLYANA MICAELA https://github.com/PolyMolly/laboratorio-web-solemne-2
 * PEREZ SUAREZ RUTH EMIRBELYS https://github.com/Ruth-sv/Tareas/tree/main/Solemne2
 * RAMOS CONTRERAS CAROLINA PAZ DE LOS ANGELES
-* RANGEL CAMACHO ANJHESMAR PAOLA file:///C:/Users/anjhe/Documents/4to%20Semestre/Programaci%C3%B3n/Solemne%202/solemne2.html
+* RANGEL CAMACHO ANJHESMAR PAOLA https://github.com/anjhessmar/Tareas-Anjhe-Programaci-n/upload/main
 * VIVANCO AMPUERO MARIANA SOFIA
