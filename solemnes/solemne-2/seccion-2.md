@@ -3,7 +3,7 @@
 * BOASSI VILLALOBOS CATALINA PAZ
 * CARQUEN RODRÍGUEZ AGUSTINA IGNACIA https://github.com/agustinacarquen192-max/laboratorio-web-solemne-1/blob/main/solemne%202/index.html
 * CARRASCO HERNÁNDEZ AMANDA CELESTE https://github.com/Amandacelest/laboratorio-web-solemne-2/blob/main/Solemne%202_Amanda%20Carrasco/index.html
-* COMISSO PLESNIAK MARÍA VICTORIA
+* COMISSO PLESNIAK MARÍA VICTORIA https://github.com/mariacomisso-gif/laboratorio-web-solemne-2/tree/main/Solemne%202
 * GODOY MEDINA ALONSO JAVIER
 * GONZÁLEZ VALENZUELA CATALINA BELÉN https://github.com/catagonzalez99/laboratorio-web-solemne-2/blob/main/Solemne%202/index.html
 * HINOJOSA POLANCO JAVIERA PAZ  https://github.com/Jyokoo/laboratorio-web-solemne-2/tree/main/Solenme%202
