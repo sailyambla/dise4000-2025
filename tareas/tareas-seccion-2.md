@@ -91,7 +91,7 @@
 * COMISSO PLESNIAK MARÍA VICTORIA 
 * GODOY MEDINA ALONSO JAVIER
 * GONZÁLEZ VALENZUELA CATALINA BELÉN
-* MELLADO TORO BENJAMÍN ANTONIO 
+* MELLADO TORO BENJAMÍN ANTONIO https://github.com/BenjaXminN/Trabajos/blob/main/clase6/index.html
 * HINOJOSA POLANCO JAVIERA PAZ  https://github.com/Jyokoo/Tareas/tree/main/tarea%20clase%206
 * POLO VIGO GERALDINE JOCELYN https://github.com/Geraldinejocelyn/Trabajoclase2Geraldine-Polo-Vigo/blob/main/Tarea%206/index.html
 * RAMOS DONOSO MARTINA IGNACIA 
