@@ -5,7 +5,7 @@
 * CAMACHO CASTRO ALEJANDRO https://github.com/ghosstander/laboratorio-web-solemne-2/tree/main/solemne2
 * CAMPOS RANGEL ANNTONELLA MERCEDES
 * LLANOS IBARRA DANIEL JOSÉ https://github.com/annarts1/Laboratorio_web_solemne_2/blob/main/index.html
-* MOLINA GAONA POLYANA MICAELA
+* MOLINA GAONA POLYANA MICAELA https://github.com/PolyMolly/laboratorio-web-solemne-2
 * PEREZ SUAREZ RUTH EMIRBELYS
 * RAMOS CONTRERAS CAROLINA PAZ DE LOS ANGELES
 * RANGEL CAMACHO ANJHESMAR PAOLA
