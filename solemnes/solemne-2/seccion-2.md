@@ -6,7 +6,7 @@
 * COMISSO PLESNIAK MARÍA VICTORIA
 * GODOY MEDINA ALONSO JAVIER
 * GONZÁLEZ VALENZUELA CATALINA BELÉN https://github.com/catagonzalez99/laboratorio-web-solemne-2/blob/main/Solemne%202/index.html
-* HINOJOSA POLANCO JAVIERA PAZ
+* HINOJOSA POLANCO JAVIERA PAZ  https://github.com/Jyokoo/laboratorio-web-solemne-2/tree/main/Solenme%202
 * MELLADO TORO BENJAMÍN ANTONIO
 * POLO VIGO GERALDINE JOCELYN
 * RAMOS DONOSO MARTINA IGNACIA https://github.com/Martina9990/laboratorio-web-solemne-1/tree/main/Solemne%202
