@@ -67,11 +67,11 @@
 ## Tarea 6
 * ACEVEDO LIZANA VICENTE ANDRÉS https://github.com/vicente-acevedo/Tareas-Laboratorio-Web/tree/main/Tarea%206
 * ARRIAGADA ZAMBRANO JAVIERA ANTONIA
-* CAMACHO CASTRO ALEJANDRO
+* CAMACHO CASTRO ALEJANDRO https://github.com/ghosstander/desweb/tree/main/tarea%206%20o7%20idk
 * ESPINOZA GAC JAVIERA BELÉN https://github.com/jaavisss/entregasweb/tree/main/TAREA%2006%20web
 * CAMPOS RANGEL ANNTONELLA MERCEDES FE https://github.com/Annto24/Tareas-Laboratorio-Web/blob/main/Tarea6/Tarea6-AnntonellaCampos.html
-* LLANOS IBARRA DANIEL JOSÉ
-* MOLINA GAONA POLYANA MICAELA
+* LLANOS IBARRA DANIEL JOSÉ https://github.com/annarts1/tarea_java2/blob/main/index.html
+* MOLINA GAONA POLYANA MICAELA https://github.com/PolyMolly/tarea6
 * PEREZ SUAREZ RUTH EMIRBELYS
 * RAMOS CONTRERAS CAROLINA PAZ DE LOS ANGELES
 * RANGEL CAMACHO ANJHESMAR PAOLA
