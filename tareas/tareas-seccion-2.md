@@ -90,7 +90,7 @@
 * CARQUEN RODRÍGUEZ AGUSTINA IGNACIA https://github.com/agustinacarquen192-max/tareas-web-taller/commit/0ec24aecab49518a645ce63b81da625c44ad7677
 * COMISSO PLESNIAK MARÍA VICTORIA 
 * GODOY MEDINA ALONSO JAVIER
-* GONZÁLEZ VALENZUELA CATALINA BELÉN
+* GONZÁLEZ VALENZUELA CATALINA BELÉN https://github.com/catagonzalez99/Tareas-WEB/blob/main/Tarea%206/index.html
 * MELLADO TORO BENJAMÍN ANTONIO 
 * HINOJOSA POLANCO JAVIERA PAZ  https://github.com/Jyokoo/Tareas/tree/main/tarea%20clase%206
 * POLO VIGO GERALDINE JOCELYN https://github.com/Geraldinejocelyn/Trabajoclase2Geraldine-Polo-Vigo/blob/main/Tarea%206/index.html
