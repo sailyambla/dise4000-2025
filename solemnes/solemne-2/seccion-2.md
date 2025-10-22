@@ -11,6 +11,6 @@
 * POLO VIGO GERALDINE JOCELYN
 * RAMOS DONOSO MARTINA IGNACIA https://github.com/Martina9990/laboratorio-web-solemne-1/tree/main/Solemne%202
 * RÍOS VELÁSQUEZ CATALINA DE LOS ANGELES
-* RUIZ ALMA CELESTE
+* RUIZ ALMA CELESTE https://github.com/almaruizz/laboratorio-web-solemne-2/tree/main/Solenmne2
 * VARELA GUERRERO CATALINA ALEJANDRA
 * VEGA HERRERA VICENTE JAVIER https://github.com/ViceeCBR/laboratorio-web-solemne-2/tree/main/Reloj
