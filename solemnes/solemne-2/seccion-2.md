@@ -1,7 +1,7 @@
 # Solemne 1, Sección 2
 * AMBLA DELGADO SAILY VALENTINA https://github.com/sailyambla/laboratorio-web-solemne-2-
 * BOASSI VILLALOBOS CATALINA PAZ
-* CARQUEN RODRÍGUEZ AGUSTINA IGNACIA
+* CARQUEN RODRÍGUEZ AGUSTINA IGNACIA https://github.com/agustinacarquen192-max/laboratorio-web-solemne-1/blob/main/solemne%202/index.html
 * CARRASCO HERNÁNDEZ AMANDA CELESTE
 * COMISSO PLESNIAK MARÍA VICTORIA
 * GODOY MEDINA ALONSO JAVIER
