@@ -72,7 +72,7 @@
 * CAMPOS RANGEL ANNTONELLA MERCEDES FE https://github.com/Annto24/Tareas-Laboratorio-Web/blob/main/Tarea6/Tarea6-AnntonellaCampos.html
 * LLANOS IBARRA DANIEL JOSÉ https://github.com/annarts1/tarea_java2/blob/main/index.html
 * MOLINA GAONA POLYANA MICAELA https://github.com/PolyMolly/tarea6
-* PEREZ SUAREZ RUTH EMIRBELYS
+* PEREZ SUAREZ RUTH EMIRBELYS https://github.com/Ruth-sv/Tareas/blob/main/index.html
 * RAMOS CONTRERAS CAROLINA PAZ DE LOS ANGELES
 * RANGEL CAMACHO ANJHESMAR PAOLA
 * VIVANCO AMPUERO MARIANA SOFIA
