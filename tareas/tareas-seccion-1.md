@@ -75,4 +75,4 @@
 * PEREZ SUAREZ RUTH EMIRBELYS https://github.com/Ruth-sv/Tareas/blob/main/index.html
 * RAMOS CONTRERAS CAROLINA PAZ DE LOS ANGELES
 * RANGEL CAMACHO ANJHESMAR PAOLA https://github.com/anjhessmar/Tareas-Anjhe-Programaci-n/tree/main/Tarea%2006
-* VIVANCO AMPUERO MARIANA SOFIA
+* VIVANCO AMPUERO MARIANA SOFIA https://github.com/marianavivanco-debug/tarea-6
