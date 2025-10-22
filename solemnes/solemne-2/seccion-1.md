@@ -2,7 +2,7 @@
 * ACEVEDO LIZANA VICENTE ANDRÉS https://github.com/vicente-acevedo/laboratorio-web-solemne-2/tree/main/laboratorio-web-solemne-2
 * ARRIAGADA ZAMBRANO JAVIERA ANTONIA https://github.com/dollipetals/laboratorio-web-solemne-2
 * ESPINOZA GAC JAVIERA BELÉN
-* CAMACHO CASTRO ALEJANDRO
+* CAMACHO CASTRO ALEJANDRO https://github.com/ghosstander/laboratorio-web-solemne-2/tree/main/solemne2
 * CAMPOS RANGEL ANNTONELLA MERCEDES
 * LLANOS IBARRA DANIEL JOSÉ
 * MOLINA GAONA POLYANA MICAELA
