@@ -66,7 +66,7 @@
 
 ## Tarea 6
 * ACEVEDO LIZANA VICENTE ANDRÉS https://github.com/vicente-acevedo/Tareas-Laboratorio-Web/tree/main/Tarea%206
-* ARRIAGADA ZAMBRANO JAVIERA ANTONIA
+* ARRIAGADA ZAMBRANO JAVIERA ANTONIA https://github.com/dollipetals/trabajos-lab-web/tree/main/Tarea%206-Lab
 * CAMACHO CASTRO ALEJANDRO https://github.com/ghosstander/desweb/tree/main/tarea%206%20o7%20idk
 * ESPINOZA GAC JAVIERA BELÉN https://github.com/jaavisss/entregasweb/tree/main/TAREA%2006%20web
 * CAMPOS RANGEL ANNTONELLA MERCEDES FE https://github.com/Annto24/Tareas-Laboratorio-Web/blob/main/Tarea6/Tarea6-AnntonellaCampos.html
@@ -79,13 +79,13 @@
 
 ## Tarea 7
 * ACEVEDO LIZANA VICENTE ANDRÉS 
-* ARRIAGADA ZAMBRANO JAVIERA ANTONIA
+* ARRIAGADA ZAMBRANO JAVIERA ANTONIA https://github.com/dollipetals/trabajos-lab-web/tree/main/Tarea%207-Lab
 * CAMACHO CASTRO ALEJANDRO 
-* ESPINOZA GAC JAVIERA BELÉN
-* CAMPOS RANGEL ANNTONELLA MERCEDES FE
+* ESPINOZA GAC JAVIERA BELÉN https://github.com/jaavisss/entregasweb/tree/main/TAREA%2007
+* CAMPOS RANGEL ANNTONELLA MERCEDES FE https://github.com/Annto24/Tareas-Laboratorio-Web/tree/main/Tarea7
 * LLANOS IBARRA DANIEL JOSÉ 
 * MOLINA GAONA POLYANA MICAELA
-* PEREZ SUAREZ RUTH EMIRBELYS 
+* PEREZ SUAREZ RUTH EMIRBELYS https://github.com/Ruth-sv/Tareas/tree/main/Tarea%20de%20clase%207
 * RAMOS CONTRERAS CAROLINA PAZ DE LOS ANGELES
 * RANGEL CAMACHO ANJHESMAR PAOLA
 * VIVANCO AMPUERO MARIANA SOFIA 
