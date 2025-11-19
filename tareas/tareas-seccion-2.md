@@ -103,7 +103,7 @@
 ## Tarea 7
 * AMBLA DELGADO SAILY VALENTINA https://github.com/sailyambla/Tarea-paginaweb/tree/main/TAREA%207
 * BOASSI VILLALOBOS CATALINA PAZ
-* CARRASCO HERNÁNDEZ AMANDA CELESTE
+* CARRASCO HERNÁNDEZ AMANDA CELESTE https://github.com/Amandacelest/TareaAmandaCarrasco/blob/main/Tarea%207_Amanda%20Carrasco/index.html
 * CARQUEN RODRÍGUEZ AGUSTINA IGNACIA https://github.com/agustinacarquen192-max/tareas-web-taller/blob/main/tarea%207/index.html
 * COMISSO PLESNIAK MARÍA VICTORIA 
 * GODOY MEDINA ALONSO JAVIER
