@@ -94,7 +94,7 @@
 * MELLADO TORO BENJAMÍN ANTONIO https://github.com/BenjaXminN/Trabajos/blob/main/clase6/index.html
 * HINOJOSA POLANCO JAVIERA PAZ  https://github.com/Jyokoo/Tareas/tree/main/tarea%20clase%206
 * POLO VIGO GERALDINE JOCELYN https://github.com/Geraldinejocelyn/Trabajoclase2Geraldine-Polo-Vigo/blob/main/Tarea%206/index.html
-* RAMOS DONOSO MARTINA IGNACIA 
+* RAMOS DONOSO MARTINA IGNACIA https://github.com/Martina9990/Tareas_Web/blob/main/index.html
 * RÍOS VELÁSQUEZ SAMAEL KHERIANNE
 * RUIZ ALMA CELESTE 
 * VEGA HERRERA VICENTE JAVIER https://github.com/ViceeCBR/Tareas-paginaweb/tree/main/Tarea6
