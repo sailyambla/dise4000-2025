@@ -9,4 +9,4 @@
 * PEREZ SUAREZ RUTH EMIRBELYS
 * RAMOS CONTRERAS CAROLINA PAZ DE LOS ANGELES
 * RANGEL CAMACHO ANJHESMAR PAOLA https://github.com/anjhessmar/portafolio-web/blob/main/Investigaci%C3%B3n%20y%20Justificaci%C3%B3n%20del%20Portafolio.pdf
-* VIVANCO AMPUERO MARIANA SOFIA
+* VIVANCO AMPUERO MARIANA SOFIA https://github.com/marianavivanco-debug/solemne-3/blob/main/README.m
