@@ -78,14 +78,14 @@
 * VIVANCO AMPUERO MARIANA SOFIA https://github.com/marianavivanco-debug/tarea-6
 
 ## Tarea 7
-* ACEVEDO LIZANA VICENTE ANDRÉS 
+* ACEVEDO LIZANA VICENTE ANDRÉS https://github.com/vicente-acevedo/Tareas-Laboratorio-Web/tree/main/Tarea%207
 * ARRIAGADA ZAMBRANO JAVIERA ANTONIA https://github.com/dollipetals/trabajos-lab-web/tree/main/Tarea%207-Lab
 * CAMACHO CASTRO ALEJANDRO 
 * ESPINOZA GAC JAVIERA BELÉN https://github.com/jaavisss/entregasweb/tree/main/TAREA%2007
 * CAMPOS RANGEL ANNTONELLA MERCEDES FE https://github.com/Annto24/Tareas-Laboratorio-Web/tree/main/Tarea7
-* LLANOS IBARRA DANIEL JOSÉ 
+* LLANOS IBARRA DANIEL JOSÉ https://github.com/annarts1/java_3/blob/main/index.html
 * MOLINA GAONA POLYANA MICAELA
 * PEREZ SUAREZ RUTH EMIRBELYS https://github.com/Ruth-sv/Tareas/tree/main/Tarea%20de%20clase%207
 * RAMOS CONTRERAS CAROLINA PAZ DE LOS ANGELES
-* RANGEL CAMACHO ANJHESMAR PAOLA
+* RANGEL CAMACHO ANJHESMAR PAOLA https://github.com/anjhessmar/Tareas-Anjhe-Programaci-n/upload/main
 * VIVANCO AMPUERO MARIANA SOFIA 
