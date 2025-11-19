@@ -110,7 +110,7 @@
 * GONZÁLEZ VALENZUELA CATALINA BELÉN 
 * MELLADO TORO BENJAMÍN ANTONIO 
 * HINOJOSA POLANCO JAVIERA PAZ  https://github.com/Jyokoo/Tareas/tree/main/clase%207/clase%207
-* POLO VIGO GERALDINE JOCELYN 
+* POLO VIGO GERALDINE JOCELYN https://github.com/Geraldinejocelyn/Trabajoclase2Geraldine-Polo-Vigo/blob/main/Tarea%207/index.html
 * RAMOS DONOSO MARTINA IGNACIA 
 * RÍOS VELÁSQUEZ SAMAEL KHERIANNE
 * RUIZ ALMA CELESTE 
