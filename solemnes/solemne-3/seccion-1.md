@@ -3,7 +3,7 @@
 * ARRIAGADA ZAMBRANO JAVIERA ANTONIA
 * ESPINOZA GAC JAVIERA BELÉN https://github.com/jaavisss/portafolio-web/blob/main/Solemne%2003%20JavieraEspinoza.pdf
 * CAMACHO CASTRO ALEJANDRO
-* CAMPOS RANGEL ANNTONELLA MERCEDES
+* CAMPOS RANGEL ANNTONELLA MERCEDES https://github.com/Annto24/portafolio-web/blob/main/Solemne3_AnntonellaCampos.pdf
 * LLANOS IBARRA DANIEL JOSÉ
 * MOLINA GAONA POLYANA MICAELA
 * PEREZ SUAREZ RUTH EMIRBELYS https://github.com/Ruth-sv/portafolio-web/blob/main/Documentacion-RuthPerez.pdf
