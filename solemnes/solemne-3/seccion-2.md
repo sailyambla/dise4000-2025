@@ -1,6 +1,6 @@
 # Solemne 3, Sección 2
 * AMBLA DELGADO SAILY VALENTINA
-* BOASSI VILLALOBOS CATALINA PAZ
+* BOASSI VILLALOBOS CATALINA PAZ https://github.com/CodedByM0chii/portafolio-web
 * CARQUEN RODRÍGUEZ AGUSTINA IGNACIA https://github.com/agustinacarquen192-max/portafolio-web/tree/main/solemne%203
 * CARRASCO HERNÁNDEZ AMANDA CELESTE https://github.com/Amandacelest/portafolio-web/blob/main/Solemnee%203/Portafolio%20Solemne%203_Amy.pdf
 * COMISSO PLESNIAK MARÍA VICTORIA https://github.com/mariacomisso-gif/portafolio-web/tree/main
