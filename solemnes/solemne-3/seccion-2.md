@@ -3,7 +3,7 @@
 * BOASSI VILLALOBOS CATALINA PAZ
 * CARQUEN RODRÍGUEZ AGUSTINA IGNACIA https://github.com/agustinacarquen192-max/portafolio-web/tree/main/solemne%203
 * CARRASCO HERNÁNDEZ AMANDA CELESTE https://github.com/Amandacelest/portafolio-web/blob/main/Solemnee%203/Portafolio%20Solemne%203_Amy.pdf
-* COMISSO PLESNIAK MARÍA VICTORIA
+* COMISSO PLESNIAK MARÍA VICTORIA https://github.com/mariacomisso-gif/portafolio-web/tree/main
 * GODOY MEDINA ALONSO JAVIER
 * GONZÁLEZ VALENZUELA CATALINA BELÉN
 * HINOJOSA POLANCO JAVIERA PAZ https://github.com/Jyokoo/laboratorio-web-solemne-3
