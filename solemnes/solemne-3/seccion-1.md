@@ -1,6 +1,6 @@
 # Solemne 3, Sección 1
 * ACEVEDO LIZANA VICENTE ANDRÉS https://github.com/vicente-acevedo/Tareas-Laboratorio-Web/tree/main/Portafolio-web
-* ARRIAGADA ZAMBRANO JAVIERA ANTONIA
+* ARRIAGADA ZAMBRANO JAVIERA ANTONIA https://github.com/dollipetals/portafolio-web
 * ESPINOZA GAC JAVIERA BELÉN https://github.com/jaavisss/portafolio-web/blob/main/Solemne%2003%20JavieraEspinoza.pdf
 * CAMACHO CASTRO ALEJANDRO
 * CAMPOS RANGEL ANNTONELLA MERCEDES https://github.com/Annto24/portafolio-web/blob/main/Solemne3_AnntonellaCampos.pdf
