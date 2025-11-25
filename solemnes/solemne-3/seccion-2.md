@@ -8,7 +8,7 @@
 * GONZÁLEZ VALENZUELA CATALINA BELÉN
 * HINOJOSA POLANCO JAVIERA PAZ https://github.com/Jyokoo/laboratorio-web-solemne-3
 * MELLADO TORO BENJAMÍN ANTONIO https://github.com/BenjaXminN/laboratorio-web-solemne-3
-* POLO VIGO GERALDINE JOCELYN
+* POLO VIGO GERALDINE JOCELYN https://github.com/Geraldinejocelyn/portafolio-web
 * RAMOS DONOSO MARTINA IGNACIA https://github.com/Martina9990/portafolio-web/blob/main/Encargo%203.pdf
 * RÍOS VELÁSQUEZ CATALINA DE LOS ANGELES
 * RUIZ ALMA CELESTE
