@@ -6,8 +6,8 @@
 * COMISSO PLESNIAK MARÍA VICTORIA
 * GODOY MEDINA ALONSO JAVIER
 * GONZÁLEZ VALENZUELA CATALINA BELÉN
-* HINOJOSA POLANCO JAVIERA PAZ https://github.com/Jyokoo/laboratorio-web-solemne-3 
-* MELLADO TORO BENJAMÍN ANTONIO
+* HINOJOSA POLANCO JAVIERA PAZ https://github.com/Jyokoo/laboratorio-web-solemne-3
+* MELLADO TORO BENJAMÍN ANTONIO https://github.com/BenjaXminN/laboratorio-web-solemne-3
 * POLO VIGO GERALDINE JOCELYN
 * RAMOS DONOSO MARTINA IGNACIA https://github.com/Martina9990/portafolio-web/blob/main/Encargo%203.pdf
 * RÍOS VELÁSQUEZ CATALINA DE LOS ANGELES
